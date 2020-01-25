@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %define		pdir	MCE
-%include	/usr/lib/rpm/macros.perl
 Summary:	MCE - Many-Core Engine for Perl providing parallel processing capabilities
 Summary(pl.UTF-8):	MCE - silnik Many-Core Engine dla Perla zapewniający możliwość przetwarzania równoległego
 Name:		perl-MCE
