@@ -7,7 +7,7 @@ Summary:	MCE - Many-Core Engine for Perl providing parallel processing capabilit
 Summary(pl.UTF-8):	MCE - silnik Many-Core Engine dla Perla zapewniający możliwość przetwarzania równoległego
 Name:		perl-MCE
 Version:	1.808
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
